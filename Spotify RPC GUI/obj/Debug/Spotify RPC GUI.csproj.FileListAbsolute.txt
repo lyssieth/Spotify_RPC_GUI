@@ -1,0 +1,62 @@
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.exe.config
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.exe
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\SpotifyAPI.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\SpotifyAPI.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\MainWindow.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\App.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_MarkupCompile.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_MarkupCompile.lref
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\MainWindow.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.g.resources
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify_RPC_GUI.Properties.Resources.resources
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csproj.GenerateResource.Cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.exe
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_Content.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\discordrpc.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\App.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Resources.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\MainWindow.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\App.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_Content.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_MarkupCompile.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI_MarkupCompile.lref
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\App.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\MainWindow.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Resources.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.g.resources
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify_RPC_GUI.Properties.Resources.resources
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csproj.GenerateResource.Cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.exe.manifest
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.exe
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.exe.config
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.exe.manifest
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.application
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.exe
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Spotify RPC GUI.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\discordrpc.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\SpotifyAPI.dll
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\bin\Debug\SpotifyAPI.xml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\About.g.cs
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\About.baml
+D:\Programming\CSharp\Spotify RPC GUI\Spotify RPC GUI\obj\Debug\Spotify RPC GUI.application

@@ -1,0 +1,53 @@
+﻿<Window x:Name="mainWindow" x:Class="Spotify_RPC_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spotify_RPC_GUI"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
+        mc:Ignorable="d"
+        Title="Spotify RPC GUI" Height="350" Width="525" Background="{DynamicResource DarkBackground}"
+        StateChanged="mainWindow_StateChanged" ResizeMode="CanMinimize">
+    <Window.ContextMenu>
+        <ContextMenu AllowDrop="True" Foreground="{DynamicResource DarkBackground}">
+            <Button x:Name="aboutButton" Content="About" Click="HandleAbout"/>
+            <Button x:Name="tutorialButton" Content="Tutorial" Click="HandleTutorial"/>
+        </ContextMenu>
+    </Window.ContextMenu>
+    <Grid>
+        <tb:TaskbarIcon x:Name="DiscordSpotify" IconSource="lib/DiscordSpotify.ico" ToolTipText="Hello, World"/>
+
+        <Button x:Name="initButton" Content="Initialize" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="80" Background="#FF3CB21A" Foreground="White" BorderBrush="{x:Null}" FontSize="14" Height="30" Click="HandleInitialize"/>
+        <Button x:Name="disconnectButton" Content="Disconnect" HorizontalAlignment="Left" Margin="427,10,0,0" VerticalAlignment="Top" Width="80" Height="30" BorderBrush="{x:Null}" Foreground="White" Background="#FFAC0000" FontSize="14" Click="HandleDisconnect"/>
+        <TextBox x:Name="statusBox" HorizontalAlignment="Left" Height="30" Margin="95,10,0,0" TextWrapping="Wrap" Text="Status: " VerticalAlignment="Top" Width="327" FontSize="20" Background="#FF36393E" BorderBrush="#FF6A6A6A" Foreground="White" SelectionBrush="{x:Null}" IsEnabled="False"/>
+        <TextBox x:Name="currentSongBox" HorizontalAlignment="Left" Height="30" Margin="10,45,0,0" TextWrapping="Wrap" Text="Current Song:" VerticalAlignment="Top" Width="497" FontSize="20" Background="#FF36393E" BorderBrush="#FF6A6A6A" Foreground="White" SelectionBrush="{x:Null}" IsEnabled="False"/>
+        <ProgressBar x:Name="updateProgressBar" HorizontalAlignment="Left" Height="34" Margin="10,275,0,0" VerticalAlignment="Top" Width="497" Background="#FF36393E" BorderBrush="#FF6A6A6A" Maximum="15" Value="10">
+            <ProgressBar.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="-90" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FF001100"/>
+                    <GradientStop Color="Lime" Offset="1"/>
+                </LinearGradientBrush>
+            </ProgressBar.Foreground>
+        </ProgressBar>
+        <Grid HorizontalAlignment="Left" Height="195" Margin="10,75,0,0" VerticalAlignment="Top" Width="497">
+            <Label Content="Small Image Key Paused" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <TextBox x:Name="smallKeyPaused" HorizontalAlignment="Left" Height="26" Margin="153,10,0,0" TextWrapping="Wrap" Text="pause" VerticalAlignment="Top" Width="334" Background="#FF36393E" Foreground="White" FontSize="18"/>
+            <Label Content="Small Image Text Paused" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <TextBox x:Name="smallTextPaused" HorizontalAlignment="Left" Height="26" Margin="155,41,0,0" TextWrapping="Wrap" Text="Paused" VerticalAlignment="Top" Width="332" Background="#FF36393E" Foreground="White" FontSize="18"/>
+            <Label Content="Small Image Key Playing" HorizontalAlignment="Left" Margin="8,72,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <TextBox x:Name="smallKeyPlaying" HorizontalAlignment="Left" Height="26" Margin="151,72,0,0" TextWrapping="Wrap" Text="play" VerticalAlignment="Top" Width="334" Background="#FF36393E" Foreground="White" FontSize="18"/>
+            <Label Content="Small Image Text Playing" HorizontalAlignment="Left" Margin="6,103,0,0" VerticalAlignment="Top" Foreground="White"/>
+            <TextBox x:Name="smallTextPlaying" HorizontalAlignment="Left" Height="26" Margin="153,103,0,0" TextWrapping="Wrap" Text="Playing" VerticalAlignment="Top" Width="332" Background="#FF36393E" Foreground="White" FontSize="18"/>
+            <Button x:Name="updateValuesButton" Content="Update Values" HorizontalAlignment="Left" Margin="0,134,0,0" VerticalAlignment="Top" Width="485" Height="51" Background="#FF1A4389" BorderBrush="{x:Null}" Foreground="White" Click="HandleUpdateValues"/>
+        </Grid>
+        <Label x:Name="updateProgressBarText" Content="10/15" HorizontalAlignment="Left" Margin="10,275,0,0" VerticalAlignment="Top" Height="34" Width="62" Foreground="White" FontSize="18"/>
+    </Grid>
+</Window>

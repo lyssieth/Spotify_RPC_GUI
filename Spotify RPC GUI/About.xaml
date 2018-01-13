@@ -1,0 +1,14 @@
+﻿<Window x:Class="Spotify_RPC_GUI.lib.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Spotify_RPC_GUI.lib"
+        mc:Ignorable="d"
+        Title="About" Height="300" Width="300" Background="{DynamicResource DarkBackground}" Foreground="White" ResizeMode="NoResize">
+    <Grid Background="{DynamicResource DarkBackground}">
+        <Button x:Name="okButton" Content="OK" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Width="272" Background="{DynamicResource DarkBackground}" Foreground="White" Click="HandleOK"/>
+        <Label Content="This is a program made by Rax Ixor.&#xD;&#xA;&#xD;&#xA;Discord: Faith#5926&#xD;&#xA;Twitter: @RaxIxor&#xD;&#xA;Email: raxixor@gmail.com&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;It does things!" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="224" Width="272" Foreground="White"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\raxix\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Spotify RPC GUI.1804689696.00" t="ExcludeRecursive" />
+    <e p="D:\Programming\CSharp\Spotify RPC GUI" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Spotify RPC GUI" t="IncludeRecursive">
+        <e p="About.xaml" t="Include" />
+        <e p="About.xaml.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="lib" t="Include">
+          <e p="discordrpc.dll" t="Include" />
+          <e p="DiscordSpotify.ico" t="Include" />
+          <e p="DiscordSpotify.png" t="Include" />
+          <e p="rabbit_ano.png" t="Include" />
+          <e p="win32-discord-rpc.dll" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources.xaml" t="Include" />
+        <e p="Spotify RPC GUI.csproj" t="IncludeRecursive" />
+        <e p="Spotify RPC GUI_TemporaryKey.pfx" t="Include" />
+      </e>
+      <e p="Spotify RPC GUI.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
